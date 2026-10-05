@@ -1,0 +1,9 @@
+# Fichiers générés automatiquement (recréés sur le serveur)
+__pycache__/
+*.pyc
+data_clean/
+models/
+sorties_moteur/
+parametres_utilisateur.json
+.streamlit/
+*.tmp
